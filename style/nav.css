@@ -21,9 +21,11 @@ nav li:hover {
 
 /* nested menue */
 
-nav li.new {
+nav li .new {
     display: none;
     position: absolute;
+    background-color: blanchedalmond;
+    padding-left: 0%;
 }
 
 nav li:hover .new {
